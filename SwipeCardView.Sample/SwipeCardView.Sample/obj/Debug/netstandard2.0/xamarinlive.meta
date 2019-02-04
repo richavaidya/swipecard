@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Acer\Downloads\SwipeCardView-master\src\SwipeCardView.Sample\SwipeCardView.Sample\App.xaml</FilePath>
+      <Hash>98-A4-4F-D2-AC-77-BF-8B-F0-DB-16-65-8B-0A-9D-4D</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Acer\Downloads\SwipeCardView-master\src\SwipeCardView.Sample\SwipeCardView.Sample\View\ColorsPage.xaml</FilePath>
+      <Hash>2C-A5-76-56-9E-BA-62-0D-00-9D-63-62-5F-C9-8B-2E</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Acer\Downloads\SwipeCardView-master\src\SwipeCardView.Sample\SwipeCardView.Sample\View\CustomizablePage.xaml</FilePath>
+      <Hash>01-6D-6D-BB-F8-C9-F0-F1-25-95-2C-66-22-0D-66-98</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Acer\Downloads\SwipeCardView-master\src\SwipeCardView.Sample\SwipeCardView.Sample\View\MainPage.xaml</FilePath>
+      <Hash>91-6A-4F-BA-3A-C8-92-D1-68-79-11-B0-35-9B-05-9F</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Acer\Downloads\SwipeCardView-master\src\SwipeCardView.Sample\SwipeCardView.Sample\View\SimplePage.xaml</FilePath>
+      <Hash>00-18-07-89-9E-17-E8-2E-B6-BD-AF-86-84-52-14-69</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Acer\Downloads\SwipeCardView-master\src\SwipeCardView.Sample\SwipeCardView.Sample\View\TinderPage.xaml</FilePath>
+      <Hash>04-54-1A-49-3D-7D-65-C5-75-44-E0-6B-57-83-04-EF</Hash>
+      <Properties>
+        <string>BackgroundColor</string>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

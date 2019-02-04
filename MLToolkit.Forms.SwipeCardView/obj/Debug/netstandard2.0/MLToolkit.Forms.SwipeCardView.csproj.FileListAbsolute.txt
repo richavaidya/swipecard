@@ -1,0 +1,10 @@
+C:\Users\Acer\Downloads\SwipeCardView-master\src\MLToolkit.Forms.SwipeCardView\bin\Debug\netstandard2.0\MLToolkit.Forms.SwipeCardView.deps.json
+C:\Users\Acer\Downloads\SwipeCardView-master\src\MLToolkit.Forms.SwipeCardView\bin\Debug\netstandard2.0\MLToolkit.Forms.SwipeCardView.dll
+C:\Users\Acer\Downloads\SwipeCardView-master\src\MLToolkit.Forms.SwipeCardView\bin\Debug\netstandard2.0\MLToolkit.Forms.SwipeCardView.pdb
+C:\Users\Acer\Downloads\SwipeCardView-master\src\MLToolkit.Forms.SwipeCardView\obj\Debug\netstandard2.0\MLToolkit.Forms.SwipeCardView.csprojAssemblyReference.cache
+C:\Users\Acer\Downloads\SwipeCardView-master\src\MLToolkit.Forms.SwipeCardView\obj\Debug\netstandard2.0\MLToolkit.Forms.SwipeCardView.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\SwipeCardView-master\src\MLToolkit.Forms.SwipeCardView\obj\Debug\netstandard2.0\MLToolkit.Forms.SwipeCardView.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\SwipeCardView-master\src\MLToolkit.Forms.SwipeCardView\obj\Debug\netstandard2.0\MLToolkit.Forms.SwipeCardView.AssemblyInfo.cs
+C:\Users\Acer\Downloads\SwipeCardView-master\src\MLToolkit.Forms.SwipeCardView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Acer\Downloads\SwipeCardView-master\src\MLToolkit.Forms.SwipeCardView\obj\Debug\netstandard2.0\MLToolkit.Forms.SwipeCardView.dll
+C:\Users\Acer\Downloads\SwipeCardView-master\src\MLToolkit.Forms.SwipeCardView\obj\Debug\netstandard2.0\MLToolkit.Forms.SwipeCardView.pdb
